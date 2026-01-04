@@ -10,7 +10,7 @@ Sided is the project for this. We want to build an environment for people to gro
 - Human-only, no AI slop.
 - Equality, so we don't treat users as metrics but actual people.
 - Transparent moderation.
-- No shadowbans. All content creators must know what they've done so they can stop repeating their mistake.
+- No shadowbans. All content creators must know what they've done so they can stop repeating their mistakes.
 
 ## Functionality
 - A long-video format platform.
